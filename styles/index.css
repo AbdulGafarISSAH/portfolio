@@ -5,8 +5,10 @@ nav{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    height: 70px;
-    position: fixed; left: 0; right: 0;
+    height: 80px;
+    position: fixed; 
+    left: 0; 
+    right: 0;
 }
 
 .nav-items{
